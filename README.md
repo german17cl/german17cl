@@ -30,13 +30,6 @@ Versión web del proyecto MusicWorld, desarrollada con PHP.
 
 🔗 Repositorio: `Dav-id15/musicWorld-Website`
 
----
-
-### 🧩 Vue paso a paso
-Repositorio con ejemplos básicos y avanzados de Vue.js (fork).  
-> Perfecto para comprender componentes, props, eventos y manejo del DOM.
-
-🔗 Repositorio: `vue-ejem-paso-a-paso`
 
 ---
 
