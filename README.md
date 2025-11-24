@@ -1,55 +1,118 @@
-# 👋 ¡Hola! Soy Germán Campiño
+<div align="center">
 
-Soy un desarrollador en crecimiento con experiencia en **Java, PHP, MySQL, HTML, CSS y JavaScript**, además de haber trabajado en proyectos relacionados con **ciberseguridad**. Me gusta aprender tecnologías nuevas y aplicar mis conocimientos en proyectos prácticos.
+# 👋 ¡Hola! Soy <strong>Germán Campiño</strong>
+<p>Estudiante de Desarrollo de Aplicaciones Web | Desarrollador en crecimiento | Apasionado por aprender</p>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+
+</div>
 
 ---
 
 ## 🧠 Tecnologías que manejo
 
-- **Backend:** Java, PHP  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks:** Vue.js (nivel inicial)  
-- **Bases de datos:** MySQL  
-- **Otros:** Ciberseguridad, lógica de programación, Git/GitHub  
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>
+Java
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>
+PHP
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
+JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
+HTML
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
+CSS
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
+MySQL
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/><br>
+Vue.js
+</td>
+<td align="center" width="100">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png" width="50"/><br>
+Ciberseguridad
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>
+Git
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
+GitHub
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos Destacados
 
 ### 🎵 MusicWorld App (Java)
-Aplicación escrita en Java que gestiona elementos del mundo musical.  
-> Proyecto centrado en la lógica backend y buenas prácticas de programación.
-
-🔗 Repositorio: `Dav-id15/musicWorld-App`
+Aplicación que gestiona elementos del mundo musical.  
+🔗 **Repositorio:** `Dav-id15/musicWorld-App`
 
 ---
 
 ### 🌐 MusicWorld Website (PHP)
-Versión web del proyecto MusicWorld, desarrollada con PHP.  
-> Incluye manejo de formularios, conexión a base de datos y renderizado dinámico.
-
-🔗 Repositorio: `Dav-id15/musicWorld-Website`
-
+Versión web del proyecto MusicWorld.  
+🔗 **Repositorio:** `Dav-id15/musicWorld-Website`
 
 ---
 
 ### 🌱 EcoTxurdi (PHP)
-Proyecto escolar que combina los **ODS** con dinámicas tipo **CTF** para concienciar sobre el medio ambiente.  
-> Participé en el desarrollo usando PHP, lógica de retos y estructura gamificada.
-
-🔗 Repositorio: `andressito99/EcoTxurdi`
+Proyecto escolar con dinámicas tipo CTF para promover el cuidado del medio ambiente.  
+🔗 **Repositorio:** `andressito99/EcoTxurdi`
 
 ---
 
-## 🎯 Objetivos actuales
+## 🌟 Sobre mí
 
-- Mejorar mis habilidades en **desarrollo web full stack**  
-- Profundizar en **ciberseguridad**  
-- Aprender frameworks modernos (Laravel, Spring Boot, Vue/Nuxt)  
-- Desarrollar proyectos más completos y profesionales  
+Soy una persona perseverante y apasionada por aprender. Me adapto rápido, mantengo una actitud positiva y disfruto trabajar en equipo para buscar soluciones y crecer junto a los demás.
 
 ---
 
+## 🎓 Formación
+
+📘 **Técnico Superior en Desarrollo de Aplicaciones Web**  
+CIFP Txurdinaga LHII (2024–2026)
+
+📚 **Cursos**  
+- Desarrollo de aplicaciones web – Ipartek (180h)  
+- Electricidad básica – Gastaroa Sartu (60h)
+
+---
+
+## 💼 Experiencia
+
+- Prácticas: Desarrollo de sitio web y app de tienda virtual (128h)  
+- Clases personalizadas de música  
+
+---
+
+<div align="center">
+  
 ## 📫 Contacto
 
-Si quieres hablar, colaborar o dar feedback sobre mis proyectos, ¡siempre estoy disponible! 😊
+<p>Si quieres hablar o colaborar, ¡aquí estoy! 😊</p>
+
+</div>
