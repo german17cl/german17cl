@@ -58,6 +58,14 @@ Git
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
 GitHub
 </td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>
+Docker
+</td>
+<td align="center" width="100">
+<img src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png" width="50"/><br>
+Terminal
+</td>
 </tr>
 </table>
 
@@ -87,7 +95,8 @@ Proyecto escolar con dinámicas tipo CTF para promover el cuidado del medio ambi
 
 ## 🌟 Sobre mí
 
-Soy una persona perseverante y apasionada por aprender. Me adapto rápido, mantengo una actitud positiva y disfruto trabajar en equipo para buscar soluciones y crecer junto a los demás.
+Soy una persona perseverante y apasionada por aprender.  
+Me adapto rápido, mantengo una actitud positiva y disfruto trabajar en equipo para buscar soluciones y crecer junto a los demás.
 
 ---
 
