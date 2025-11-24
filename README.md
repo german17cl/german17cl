@@ -63,7 +63,7 @@ GitHub
 Docker
 </td>
 <td align="center" width="100">
-<img src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png" width="50"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
 Terminal
 </td>
 </tr>
@@ -107,7 +107,7 @@ CIFP Txurdinaga LHII (2024–2026)
 
 📚 **Cursos**  
 - Desarrollo de aplicaciones web – Ipartek (180h)  
-- Electricidad básica – Gastaroa Sartu (60h)
+- Electricidad básica – Gastaroa Sartu (180h)
 
 ---
 
