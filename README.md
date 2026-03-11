@@ -114,8 +114,9 @@ CIFP Txurdinaga LHII (2024–2026)
 ## 💼 Experiencia
 
 - Prácticas: Desarrollo de sitio web y app de tienda virtual (128h)  
-
-
+- Desarrollador Web – EXEL EVENTOS SL
+  Desarrollo y mantenimiento de aplicaciones y sitios web internos, optimizando procesos de producción y eventos, colaborando con equipos multidisciplinares.
+  <p>(https://exeleventos.com/)</p>
 ---
 
 <div align="center">
