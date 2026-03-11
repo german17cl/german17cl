@@ -107,14 +107,14 @@ CIFP Txurdinaga LHII (2024–2026)
 
 📚 **Cursos**  
 - Desarrollo de aplicaciones web – Ipartek (180h)  
-- Electricidad básica – Gastaroa Sartu (180h)
+
 
 ---
 
 ## 💼 Experiencia
 
 - Prácticas: Desarrollo de sitio web y app de tienda virtual (128h)  
-- Clases personalizadas de música  
+
 
 ---
 
@@ -123,5 +123,6 @@ CIFP Txurdinaga LHII (2024–2026)
 ## 📫 Contacto
 
 <p>Si quieres hablar o colaborar, ¡aquí estoy! 😊</p>
+<p>🔗 [Conéctate conmigo en LinkedIn][(https://www.linkedin.com/in/germancampdev/)]</p>
 
 </div>
